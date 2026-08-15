@@ -1,0 +1,11 @@
+# Ignore everything in the root directory
+/*
+
+# Un-ignore all directories so Git can traverse them
+!*/
+
+# Un-ignore all .md files
+!*.md
+
+# If you want to keep the .gitignore file itself
+!.gitignore
