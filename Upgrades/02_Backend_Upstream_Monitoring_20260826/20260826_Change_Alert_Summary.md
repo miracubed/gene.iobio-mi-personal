@@ -44,7 +44,7 @@ https://github.com/iobio/iobio-gru-backend/pull/130
    • [658ddf8](https://github.com/iobio/iobio-gru-backend/pull/130/commits/658ddf84bdf6d80980338be8b998c72f4c14a17d) Remove some old dev scripts  
    • [d7d18a9](https://github.com/iobio/iobio-gru-backend/pull/130/commits/d7d18a915941e919ff17d56747facbd5a510ef9f) Make `gnomad` download script executable  
    • [7f8b524](https://github.com/iobio/iobio-gru-backend/pull/130/commits/7f8b524056ec6cfa5f3c6f4991ea431dccea3335) Update `gnomad` scripts  
-   • [3ae0f1c](https://github.com/iobio/iobio-gru-backend/pull/130/commits/3ae0f1c8901c1b83799b5edcf534e5dfa194b3c5) 1. Fix the `fallthrough` bug that was caused by a misplaced `fi`, resulting in `toml` file always being set to the `GRCh37` file, regardless of the `genomeBuildName`.  
+   • [3ae0f1c](https://github.com/iobio/iobio-gru-backend/pull/130/commits/3ae0f1c8901c1b83799b5edcf534e5dfa194b3c5) 1. Fix the `fallthrough` bug that was caused by a misplaced `fi`, resulting in `toml` file always being set to the `GRCh37` file, regardless of the `genomeBuildName`. 2. Update the file path of the tomls to reflect the latest directory structure and file names for gnomad.  
    • [ce157e9](https://github.com/iobio/iobio-gru-backend/pull/130/commits/ce157e93b5dd3b343d822f6690aa028a9ea25bf7) Fix the fallthrough bug cause by 'fi'. This bug causes the `GRCh37` `toml` to be used regardless of the `genomeBuildName`  
    • [4140efb](https://github.com/iobio/iobio-gru-backend/pull/130/commits/4140efbe806a6b66d072a93a8c289b4afaf44b5c) Port `phenolyzer` to `gru`  
    • [d83aba0](https://github.com/iobio/iobio-gru-backend/pull/130/commits/d83aba03bbd2c2bd7b65f4bcd82a28fb82c468cf) Fix `phenolyzer` path matching  
