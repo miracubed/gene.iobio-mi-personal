@@ -189,12 +189,12 @@ Future you will thank you.
 I recommend reading `07_OVERVIEW.md` next in sequence.  
 
 # To:
-The entire Iobio team (notably: Tony Di Sera (tonydisera) and Anders Pitman (anderspitman)),  
-Kai Wang (kaichop) at WGLab Phenolyzer,  
+The entire Iobio team (notably: Tony Di Sera (@tonydisera) and Anders Pitman (@anderspitman)),  
+Kai Wang (@kaichop) at WGLab Phenolyzer,  
 The people at Ensembl.org,  
 gnomAD, SAMtools and others who have collaborated or helped with any of the aforementioned persons/teams/products:  
 Your work is reaching and helping more people than you may know.  
-I could not have found my rare disease variants without any of you. Finding my variants with your help has kept me alive and out of serious trouble until I can see an actual metabolic geneticist clinician help me. Many thanks to you all.  
+I could not have found my rare disease variants without any of you. Finding my variants with your help has kept me alive and out of serious trouble until I can see an actual metabolic geneticist clinician to help me. Many thanks to you all.  
 (There are a lot of 'moving parts' here in this stack. My apologies if I have left out anyone I should have included.)  
 
 ---
